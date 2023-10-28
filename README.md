@@ -31,7 +31,7 @@ To run the analysis, ensure you have the following software and libraries instal
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your_username_/customer-segmentation-rfm.git
+   git clone https://github.com/rivaldivlns/customer-segmentation-rfm.git
    ```
 
 2. Navigate to the repository folder and install the required packages:
