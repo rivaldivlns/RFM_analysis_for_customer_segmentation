@@ -1,4 +1,4 @@
-Customer Segmentation using RFM Analysis & Clustering Techniques
+# Customer Segmentation using RFM Analysis & Clustering Techniques
 
 ## Table of Contents
 1. [Introduction](#introduction)
