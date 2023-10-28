@@ -1,4 +1,4 @@
-# Customer Segmentation using RFM Analysis & Clustering Techniques
+# Customer Segmentation using RFM Analysis & Unsupervised Learning
 
 This repository presents an approach to segment customers based on their purchasing behavior using RFM (Recency, Frequency, Monetary) analysis combined with advanced clustering techniques. By analyzing recent purchases, frequency of purchases, and total expenditure, businesses can gain insights into customer behavior, enabling them to tailor marketing strategies and enhance customer retention.
 
