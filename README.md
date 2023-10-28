@@ -73,5 +73,3 @@ If you would like to contribute to the project, please fork the repository, make
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ---
-
-Note: Modify the placeholders (like the repository URL, your_username_, Data Source Name, etc.) with actual details pertinent to your project.
